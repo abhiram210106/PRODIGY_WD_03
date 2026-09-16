@@ -40,11 +40,3 @@ PRODIGY_WD_03/
 ├── styles.css
 ├── script.js
 └── README.md
-
-## 🎥 Video Demonstration
-
-Watch the demonstration of the **Tic-Tac-Toe Web Application** on LinkedIn.
-
-▶️ **[Watch Project Demonstration]()**
-
-The video demonstrates the interactive game board, player turns, game logic, win/draw detection, and restart functionality.
